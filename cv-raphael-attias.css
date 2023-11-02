@@ -66,7 +66,7 @@ footer h3 {
 footer .github-button, footer .pdf-button {
     text-decoration: none;
     padding: 5px 10px;
-    border: 1px solid blue;
+    border: 5px solid black;
     color: #333;
     border-radius: 5px;
     color: whitesmoke;
